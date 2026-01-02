@@ -76,4 +76,4 @@ Este projeto é fornecido como material educacional.
 
 ---
 
-*Desenvolvido como parte dos requisitos da disciplina de Redes Neurais e Deep Learning - UFRN (2025/2026)*
+*Desenvolvido como parte dos requisitos da disciplina de Redes Neurais e Deep Learning - UFRN (2025)*
